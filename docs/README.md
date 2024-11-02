@@ -4,7 +4,7 @@ Integrated analysis of multimodal data provides a more comprehensive view for ca
 Keywords: pan-cancer, tucker decomposition, multimodal fusion, survival prediction
 
 
-<img src="./model_ai.png" width="1000px" align="center" />
+<img src="./model_ai.png" width="500px" align="center" />
 
 ## How to use
 Use `train_mian.py` to train the model.
