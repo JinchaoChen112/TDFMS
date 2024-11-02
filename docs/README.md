@@ -12,5 +12,5 @@ Use `train_mian.py` to train the model.
 # Acknowledgement 
 Thanks to the following people for their work.
 * Chen, R.J., et al., Pan-cancer integrative histology-genomic analysis via multimodal deep learning. Cancer Cell, 2022. 40(8): p. 865-+.
-* [2] Ben-younes, H., et al., MUTAN: Multimodal Tucker Fusion for Visual Question Answering. Arxiv, 2017.
+* Ben-younes, H., et al., MUTAN: Multimodal Tucker Fusion for Visual Question Answering. Arxiv, 2017.
 
